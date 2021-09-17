@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+
   <!--
     If you are serving your web app in a path other than the root, change the
     href value below to reflect the base path you are serving from.
@@ -12,7 +14,6 @@
     * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
   -->
   <base href="/">
-  <!-- https://saidino84.github.io -->
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -21,19 +22,53 @@
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="saidino_coding">
+  <meta name="apple-mobile-web-app-title" content="ali_spar">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
-  <title>saidino_coding</title>
+  <title>ali_spar</title>
   <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" type="text/css" href="splash/style.css">
 </head>
 <body>
- 
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
+
+       <!-- SETUP DE FIREBASE -->
+       <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-firestore.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-auth.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-storage.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-messaging.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-analytics.js"></script>
+
+ 
+ 
+<script> 
+  // Your web app's Firebase configuration
+  
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  
+  const firebaseConfig = {
+    apiKey: "AIzaSyBvNqXkPUH-djEpZtXctwKnZKZwDr2XKTY",
+    authDomain: "flutter-login-cfbd7.firebaseapp.com",
+    databaseURL: "https://flutter-login-cfbd7-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "flutter-login-cfbd7",
+    projectId: "flutter-login-cfbd7",
+    storageBucket: "flutter-login-cfbd7.appspot.com",
+    messagingSenderId: "342292747100",
+    appId: "1:342292747100:web:ebdb6541b5c0ec5bfea799",
+    measurementId: "G-KHDH00GVMF"
+  
+  };
+  
+  
+  // Initialize Firebase
+  
+   firebase.initializeApp(firebaseConfig);
+  </script>
   <script>
-    var serviceWorkerVersion = '618871188';
+    var serviceWorkerVersion = '21112117';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {

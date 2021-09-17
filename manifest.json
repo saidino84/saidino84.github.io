@@ -1,11 +1,11 @@
 {
-    "name": "saidino_coding",
-    "short_name": "saidino_coding",
+    "name": "ali_spar",
+    "short_name": "ali_spar",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Saidino Project made by Flutter",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
