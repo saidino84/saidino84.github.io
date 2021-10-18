@@ -1,0 +1,473 @@
+{
+    "fruits":[
+        {
+            "product_name":"BANANA  /KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38176-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/banana-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"TOMATE NACIONAL KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38135-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/tomate-nacional-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"POTATO KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38063-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/potato-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"CENOURA PKT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38193-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/cenoura-pkt/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"CEBOLA GRANDE  KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38057-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/cebola-grande-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"MORANGO S.A",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38216-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/morango-s-a/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"BROCOLLI",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38186-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/brocolli/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"LARANJA NACIONAL/KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/08/38106-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/laranja-nacional-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"PERA ABACATE KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38090-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/pera-abacate-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"ALFACE NACIONAL",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38171-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/alface-nacional/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"PAPAIA",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38127-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/papaia/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"BATATA DOCE VERMELHA  N KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38124-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/batata-doce-vermelha-n-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"COGUMELOS BRANCO 250GR",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38318-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/cogumelos-branco-250gr/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"LEMONS SA KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38099-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/lemons-sa-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"COUVE ESTACA UNIT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38169-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/couve-estaca-unit/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"ORANGE S.A",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38266-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/orange-s-a/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"TANGERINA",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38142-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/tangerina/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"ESPINAFRE UNIT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38170-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/espinafre-unit/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"BABY MARROW FRESHLINE 350G",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38069-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/baby-marrow-freshline-350g/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"APPLE RED KG LOOSE",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38087-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/apple-red-kg-loose/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"GRAPE GENERIC RED SEEDLESS 500G",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38096-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/grape-generic-red-seedless-500g/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"RUCULA  UNI",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38236-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/rucula-uni/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"COENTRO UNIT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38159-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/coentro-unit/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"ANANAS LIN. FRES.",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38110-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/ananas-lin-fres/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"PIMENTA COLORIDA MIX",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/08/38223-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/pimenta-colorida-mix/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"CAULIFLOWER HEADS",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38076-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/cauliflower-heads/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"BLUEBERRIES TIGELA",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38269.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/blueberries-tigela/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"ALHO KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38150-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/alho-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"COCO UNIT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38162-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/coco-unit/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"PIPINO ENGLISH UNIT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38077-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/pipino-english-unit/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"AGRIAO UNIT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38255-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/agriao-unit/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"SALSA UNIT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38158-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/salsa-unit/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"GRAPES MIXED 500GR",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38452-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/grapes-mixed-500gr/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"PIPINO NACIONAL KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38137-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/pipino-nacional-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"PERA PORTUGUESA KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38107-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/pera-portuguesa-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"ABOBORA CABACA KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38064-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/abobora-cabaca-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"AMEIXA TIGELA",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/08/38244-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/ameixa-tigela/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"TOMATO COCKTAIL 200G",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38147-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/tomato-cocktail-200g/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"NECTARINA TIGELA S.A",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38244-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/nectarina-tigela-s-a/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"APPLE GRANNY SMITH KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38086-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/apple-granny-smith-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"REPOLHO",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38139-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/repolho/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"FEIJAO VERDE KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38138-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/feijao-verde-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"MARACUJA PKT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38191-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/maracuja-pkt/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"PESSEGO  TIGELA",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38243-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/pessego-tigela/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"MILHO FRESCO PKT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38268-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/milho-fresco-pkt/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"CEBOLINHA UNIT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38156-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/cebolinha-unit/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"BERINGELA KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38122-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/beringela-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"APLLES TOP RED ECONO 1.5KG BOX",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38088-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/aplles-top-red-econo-1-5kg-box/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"TORANJA KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38094-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/toranja-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"KIWI FRUIT 4S FRESH LINE",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38184-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/kiwi-fruit-4s-fresh-line/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        }
+     ,
+        {
+            "product_name":"HORTELA",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38155-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/hortela/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"ALFACE  BABY MIX UNIT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38263-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/alface-baby-mix-unit/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"BATATA IMPORT SACO",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/09/36163-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/batata-import-saco/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"BASILICO UNIT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38333-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/basilico-unit/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"DIVIOSPIROS  FRUTA PKT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38179-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/diviospiros-fruta-pkt/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"KIWI AVULSA KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38184-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/kiwi-avulsa-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"MACA VERDE KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/08/38195-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/maca-verde-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"GRAPE GENERIC WHITE SEEDLESS  500G",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38097-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/grape-generic-white-seedless-500g/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"REPOLHO ROXO UNIT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/08/38143_1-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/repolho-roxo-unit/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"CELERY SA",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/11/38177-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/celery-sa/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"COUVE UNIT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38157-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/couve-unit/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"APPLE GOLD DELIC 1.5KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38084-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/apple-gold-delic-1-5kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"NABO BRANCO KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38228-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/nabo-branco-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"ZZ2 TOMATE COCKTAIL 400G",
+            "url_img":"https://vipspar.com/wp-content/uploads/2021/06/38509-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/zz2-tomate-cocktail-400g/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"CEBOLA P/SACO",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38307-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/cebola-p-saco/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"TOMATO LOOSE ZZ2 IMPORT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38148-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/tomato-loose-zz2-import/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"PIMENTA VERMELHA KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38081-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/pimenta-vermelha-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"TOMATO LONG LIFE 1KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38147-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/tomato-long-life-1kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"TOMATE SA.PKT2KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38327.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/tomate-sa-pkt2kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"GINGER IMPORTADO KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38145-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/ginger-importado-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"PIMENTA VERDE IMPORT.KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38080-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/pimenta-verde-import-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"PERA PORTUGUESA PKT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38330-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/pera-portuguesa-pkt/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"REPOLHO CHINES UN",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38189-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/repolho-chines-un/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"PERA GROSSA PCT 1.5KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38208-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/pera-grossa-pct-1-5kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"MELANCIA UNIT",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38066-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/melancia-unit/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"TOMATE IMPORT.PKT 2KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38327.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/tomate-import-pkt-2-5kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"GOOSEBERRIES TIGELA",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38119-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/gooseberries-tigela/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        },
+        {
+            "product_name":"PEPPER LOOSE YELLOW /KG",
+            "url_img":"https://vipspar.com/wp-content/uploads/2020/07/38082-480x480.jpg",
+            "prod_details":"https://vipspar.com/shop/frutas-e-vegetais/pepper-loose-yellow-kg/",
+            "description":"\nos produtos alimentares estão sujeitos a constantes alterações\ndas quais o consumidor deverá estar sempre informado. A Portspar Retail,\nLda não se responsabiliza por eventuais divergências e/ou modificações\nrelacionadas com a informação sobre os produtos presentes na nossa página web,\nfacultada pelo fornecedor/fabricante, e a que figura nos rótulos dos mesmos.\nAssim, recomendamos que leia sempre a informação nutricional, lista de ingredientes,\nrecomendações de utilização, preparação e/ou conservação, bem como todas as informações,\nde caráter obrigatório e/ou voluntário, de um produto alimentar antes de o utilizar ou consumir.\n"
+        }
+    ]
+}
